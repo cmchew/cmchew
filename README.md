@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cassie M. Chew
 
-I'm a journalist and aspiring software engineer passionate about building clean, user-focused applications for news products. I’m self-taught and focused on full-stack web development, with strong interest in analytics, performance, and code quality.
+I'm a journalist and software engineer passionate about building clean, user-focused applications for news and information websites. I started out as a self-taught deveveloper building about a half dozen projects for small business owners and entrepreneurs. During the pandemic lockdowns, I skilled up with formal training and and now can build websites that ensure ease of use while also protecting user data privacy. 
 
 ---
 
