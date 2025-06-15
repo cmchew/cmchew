@@ -38,21 +38,16 @@ I'm a journalist and software engineer passionate about building clean, user-foc
 
 ## 📁 Featured Projects
 
-### 📝 [Your Portfolio Website](https://your-portfolio-link.com)
+### 📝 [Your Portfolio Website](https://github.com/cmchew)
 Personal site featuring all projects, resume, and contact info.
 
-### 📊 Analytics Dashboard *(Coming Soon)*
-A dashboard powered by mock analytics data with custom SQL reports and visualization tools.
-
-### 🛠 CMS Clone
-A simple content management system using PHP and MySQL to demonstrate CRUD operations and dashboard analytics.
 
 ---
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/cassiemchew/)
-- [Portfolio](https://your-portfolio-link.com)
+- [Portfolio](https://github.com/cmchew)
 - [Email](mailto:write_on@hotmail.com)
 
 ---
@@ -73,4 +68,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📊 Analytics Dashboard *(Coming Soon)*
+A dashboard powered by mock analytics data with custom SQL reports and visualization tools.
+
+### 🛠 CMS Clone
+A simple content management system using PHP and MySQL to demonstrate CRUD operations and dashboard analytics.
 -->
