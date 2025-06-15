@@ -38,7 +38,7 @@ I'm a journalist and software engineer passionate about building clean, user-foc
 
 ## 📁 Featured Projects
 
-### 📝 [Your Portfolio Website](https://github.com/cmchew)
+### 📝 [Your Portfolio Website](https://cmchew.github.io/projects/)
 Personal site featuring all projects, resume, and contact info.
 
 
@@ -47,7 +47,7 @@ Personal site featuring all projects, resume, and contact info.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/cassiemchew/)
-- [Portfolio](https://github.com/cmchew)
+- [Portfolio](https://cmchew.github.io/projects/)
 - [Email](mailto:write_on@hotmail.com)
 
 ---
